@@ -6,7 +6,7 @@
 musteri = {
     "ad": "Ludociel",
     "yas": 21,
-    "calisma": "evet",    # evet/hayir/ogrenci/emekli
+    "calisma": "evet",
     "maas": 15000,
     "bakiye": 0
 }
