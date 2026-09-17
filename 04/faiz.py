@@ -1,8 +1,6 @@
 # ============================================
 # 07 - FAIZ HESAPLAMA (Fonksiyon)
-# Site: Faiz sayfasi
-# Kavram: def, return, parametre
-# ============================================
+
 
 def faiz_hesapla(anapara, oran, vade):
     """
